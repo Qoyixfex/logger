@@ -36,19 +36,18 @@ cd webhook-logger```
 ```nano config.py  # Add your Discord webhook URL```
 
 
----
 ## Termux (Android) Installation & Usage 📱
 
 ### Full Setup Guide:
 
 **bash**
 # 1. Update packages and install requirements
-```pkg update -y && pkg upgrade -y
-pkg install python git -y```
+```pkg update -y && pkg upgrade -y```
+ ```pkg install python git -y````
 
 # 2. Clone the repository
-```git clone https://github.com/yourusername/webhook-logger.git
-cd webhook-logger```
+```git clone https://github.com/yourusername/webhook-logger.git```
+```cd webhook-logger```
 
 # 3. Install Python dependencies
 ```pip install -r requirements.txt```
