@@ -1,4 +1,5 @@
-# Advanced Discord Webhook Logger 🌐🔍 (only for educational purpose)
+# Advanced Discord Webhook Logger 🌐🔍
+### WARNING THIS CODE IS ONLY FOR EDUCATION PURPOSE ONLY
 
 A powerful IP/device tracking tool that logs detailed visitor information to your Discord webhook, including geolocation, device fingerprints, and VPN detection.
 
