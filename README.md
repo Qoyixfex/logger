@@ -35,6 +35,6 @@ pip install -r requirements.txt
 nano config.py  # Add your Discord webhook URL
 
 USAGE
-python3 tool.py
+python3 log.py
 
 More support soon..
