@@ -33,14 +33,14 @@ cd webhook-logger
 pip3 install -r requirements.txt
 
 # Edit configuration
-nano config.py  # Add your Discord webhook URL
+nano config.py  # Add your Discord webhook URL```
 
 
 ---
 
 ### For Termux
 
-# Install required packages
+```# Install required packages
 pkg install python git
 
 # Clone the repository
@@ -51,7 +51,8 @@ cd webhook-logger
 pip install -r requirements.txt
 
 # Edit configuration
-nano config.py  # Add your Discord webhook URL
+nano config.py  # Add your Discord webhook URL```
 ---
 
 ### USAGE 🚀
+```python3 log.py```
