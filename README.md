@@ -2,7 +2,7 @@
 
 A powerful IP/device tracking tool that logs detailed visitor information to your Discord webhook, including geolocation, device fingerprints, and VPN detection.
 
-![Demo Screenshot](https://i.imgur.com/J5qKXWq.png)
+![Demo Screenshot](https://files.catbox.moe/p1vfwp.png)
 
 ## Features ✨
 
