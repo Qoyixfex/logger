@@ -23,13 +23,18 @@ A powerful IP/device tracking tool that logs detailed visitor information to you
 ## Installation ⚙️
 
 ### For Linux:
-**bash**
+```bash
 # Clone the repository
-```git clone https://github.com/yourusername/webhook-logger.git
-cd webhook-logger```
+git clone https://github.com/yourusername/webhook-logger.git
+cd webhook-logger
 
 # Install dependencies
-```pip install -r requirements.txt```
+pip install -r requirements.txt
 
 # Edit configuration
-```nano config.py  # Add your Discord webhook URL```
+nano config.py  # Add your Discord webhook URL
+
+USAGE
+python3 tool.py
+
+More support soon..
